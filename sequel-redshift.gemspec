@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Sequel::Redshift::VERSION
   spec.authors       = ["Sergey Varaksin"]
   spec.email         = ["varaksin86@gmail.com"]
-  spec.description   = %q{Amazon Redshift adapter for Sequel}
-  spec.summary       = %q{Amazon Redshift adapter for Sequel}
+  spec.description   = %q{FARADAY PRIVATE FORK: Amazon Redshift adapter for Sequel}
+  spec.summary       = %q{FARADAY PRIVATE FORK: Amazon Redshift adapter for Sequel}
   spec.homepage      = ""
   spec.license       = "MIT"
 
